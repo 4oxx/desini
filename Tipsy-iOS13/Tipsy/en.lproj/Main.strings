@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "10%"; ObjectID = "7y6-Kf-yF0"; */
+"7y6-Kf-yF0.normalTitle" = "10%";
+
+/* Class = "UILabel"; text = "Choose Split"; ObjectID = "91p-Sw-eBL"; */
+"91p-Sw-eBL.text" = "Choose Split";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "FSl-VY-LBj"; */
+"FSl-VY-LBj.normalTitle" = "Calculate";
+
+/* Class = "UILabel"; text = "Split between 2 people, with 10% tip."; ObjectID = "HGt-bn-sCv"; */
+"HGt-bn-sCv.text" = "Split between 2 people, with 10% tip.";
+
+/* Class = "UILabel"; text = "Total per person"; ObjectID = "KKI-74-P9e"; */
+"KKI-74-P9e.text" = "Total per person";
+
+/* Class = "UILabel"; text = "Select tip"; ObjectID = "QDm-4I-R22"; */
+"QDm-4I-R22.text" = "Select tip";
+
+/* Class = "UIButton"; normalTitle = "20%"; ObjectID = "UtR-dU-EKt"; */
+"UtR-dU-EKt.normalTitle" = "20%";
+
+/* Class = "UIButton"; normalTitle = "0%"; ObjectID = "XzR-0E-Xf7"; */
+"XzR-0E-Xf7.normalTitle" = "0%";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "bSy-Yc-886"; */
+"bSy-Yc-886.text" = "2";
+
+/* Class = "UILabel"; text = "Enter bill total"; ObjectID = "d2s-17-4a0"; */
+"d2s-17-4a0.text" = "Enter bill total";
+
+/* Class = "UILabel"; text = "56.32"; ObjectID = "uLJ-ii-hft"; */
+"uLJ-ii-hft.text" = "56.32";
+
+/* Class = "UITextField"; placeholder = "e.g. 123.56"; ObjectID = "wcN-ka-Q4F"; */
+"wcN-ka-Q4F.placeholder" = "e.g. 123.56";
+
+/* Class = "UIButton"; normalTitle = "Recalculate"; ObjectID = "zzn-9K-6hu"; */
+"zzn-9K-6hu.normalTitle" = "Recalculate";
